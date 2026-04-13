@@ -1,25 +1,24 @@
-#Snake-game-project
+# Snake Game Project
+A classic arcade-style Snake Game built to provide a smooth and interactive gaming experience. This project demonstrates the use of web technologies and backend logic to create a fun, responsive game.
 
-A classic Snake Game built using web technologies and Python logic. This project demonstrates basic game mechanics, collision detection, and score management.
+# Features
+Responsive Gameplay:
+The game adjusts to different screen sizes and provides a seamless experience.
 
-Developer: Guhan
+Score Tracking:
+Real-time score display to track your progress during the game.
 
-Technologies Used
-Frontend: HTML5, CSS3, JavaScript
-Backend/Logic: Python
-Version Control: GitHub
+Clean User Interface:
+Simple and attractive design focused on the classic snake game aesthetic.
 
-How to Play
+# Tech Stack
+Frontend:
+HTML, CSS, and JavaScript for the game interface and logic.
 
-Clone the project: Download or clone the repository to your local machine.
-Open the Game: Launch index.html in any modern web browser.
-Controls: Use the Arrow Keys (Up, Down, Left, Right) to control the snake.
-Objective: Eat the food to grow longer and increase your score. Avoid hitting the walls or your own tail!
+Backend:
+Python for additional backend processing and logic.
 
-Project Structure
+# Developed by
+Guhan Dakshinamoorthy
 
-index.html: The main entry point for the game.
-style.css: Contains the styling and layout.
-script.js: Handles the game movement and front-end logic.
-app.py: Python implementation/logic for the game.
-README.md: Project documentation.
+Contact: guhanvikas@gmail.com
